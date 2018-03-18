@@ -3,7 +3,7 @@
 #NB the print result is ALWAYS a string
 
 
-print("Hello")
+print("Hellooooo")
 value = "String"  #could use also ' instead of "
 value2 = 'I\'m a string'#\ means character after that is just a syntax char
 print(value2)
